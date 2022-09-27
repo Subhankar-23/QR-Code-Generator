@@ -5,6 +5,6 @@ While using this application, you have to insert data in every field to generate
 
 When A QR Code is generated:
 ![Screenshot (580)](https://user-images.githubusercontent.com/80886911/192574819-5e5cfb77-aca7-4773-881c-282a118897cd.png)
-
-Initial Interface:
+<br>
+Initial Interface:<br>
 ![Screenshot (579)](https://user-images.githubusercontent.com/80886911/192577001-b24106d2-36b1-4465-bc3a-1904b3d82f0f.png)
