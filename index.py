@@ -80,8 +80,6 @@ class QR_generator:
         self.qr_code.config(image='')
 
 
-
-       
 root=Tk()
 obj=QR_generator(root)
 root.mainloop()
